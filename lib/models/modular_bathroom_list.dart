@@ -1,0 +1,78 @@
+import 'modular_bathroom.dart';
+
+class ModularBathroomList {
+  static List<ModularBathroom> modularBathroomObjects = [
+    ModularBathroom(
+      false,
+      productId: 6645131324512151,
+      productImage:
+          'https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmF0aHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
+      productName: 'Modular Bathroom 1',
+      brand: 'CERA',
+      originalPrice: 5000,
+      discountedPrice: 3500,
+      discountPercentage: 20,
+      rating: 4.1,
+    ),
+    ModularBathroom(false,
+        productId: 6645131324512152,
+        productImage:
+            'https://images.unsplash.com/photo-1603825491103-bd638b1873b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmF0aHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
+        productName: 'Modular Bathroom 2',
+        brand: 'HINDWARE',
+        originalPrice: 10000,
+        discountedPrice: 9000,
+        discountPercentage: 10,
+        rating: 4.5),
+    ModularBathroom(false,
+        productId: 6645131324512153,
+        productImage:
+            'https://images.unsplash.com/photo-1586798271654-0471bb1b0517?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJhdGhyb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+        productName: 'Modular Bathroom 3',
+        brand: 'AIROLAM',
+        originalPrice: 4500,
+        discountedPrice: 2500,
+        discountPercentage: 40,
+        rating: 3.8),
+    ModularBathroom(false,
+        productId: 6645131324512154,
+        productImage:
+            'https://images.unsplash.com/photo-1629079447777-1e605162dc8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJhdGhyb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+        productName: 'Modular Bathroom 4',
+        brand: 'EUROPA',
+        originalPrice: 6000,
+        discountedPrice: 5500,
+        discountPercentage: 5,
+        rating: 4.2),
+    ModularBathroom(false,
+        productId: 6645131324512155,
+        productImage:
+            'https://images.unsplash.com/photo-1628602813485-4e8b09442e98?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJhdGhyb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+        productName: 'Modular Bathroom 5',
+        brand: 'ELICA',
+        originalPrice: 8000,
+        discountedPrice: 5500,
+        discountPercentage: 35,
+        rating: 4.4),
+    ModularBathroom(false,
+        productId: 6645131324512156,
+        productImage:
+            'https://images.unsplash.com/photo-1604014237744-2f4ab6bfbcc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGJhdGhyb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+        productName: 'Modular Bathroom 6',
+        brand: 'JAGUAR',
+        originalPrice: 11000,
+        discountedPrice: 10500,
+        discountPercentage: 5,
+        rating: 4.6),
+    ModularBathroom(false,
+        productId: 6645131324512157,
+        productImage:
+            'https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGJhdGhyb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+        productName: 'Modular Bathroom 7',
+        brand: 'KAJARIA',
+        originalPrice: 11000,
+        discountedPrice: 9000,
+        discountPercentage: 20,
+        rating: 4.7),
+  ];
+}
