@@ -6,7 +6,7 @@ A new Flutter project.
 <!--  -->
 <!-- ![](https://github.com/vibhorV5/public_repo/blob/main/plypicker.gif =360x780) --> -->
 
-<img src="https://github.com/vibhorV5/public_repo/blob/main/plypicker.gif" width="100" height="100">
+<img src="https://github.com/vibhorV5/public_repo/blob/main/plypicker.gif" width="360" height="780">
 
 ## Getting Started
 
