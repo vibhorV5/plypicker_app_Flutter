@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-![Alt Text](https://github.com/vibhorV5/public_repo/blob/main/plypicker.gif)
+<!-- ![Alt Text](https://github.com/vibhorV5/public_repo/blob/main/plypicker.gif)
+ -->
+![](https://github.com/vibhorV5/public_repo/blob/main/plypicker.gif =360x780)
 
 ## Getting Started
 
