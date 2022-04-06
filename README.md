@@ -1,6 +1,6 @@
 # plypicker_app
 
-A new Flutter project.
+Fully responsive demo app using Provider state management.
 
 <!-- ![Alt Text](https://github.com/vibhorV5/public_repo/blob/main/plypicker.gif)
 <!--  -->
